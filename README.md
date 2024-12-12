@@ -31,9 +31,9 @@ TensorFlow powers the deep learning model for eye state classification. The Conv
 
 ## Results
 
-- **Model Accuracy**: Achieved a classification accuracy of over 95% on the test set.
-- **Detection Speed**: Processes video frames in real time (~30 FPS) on a standard CPU.
-- **System Performance**: Successfully triggers an alarm when eyes remain closed for a specific duration.
+- **Model Accuracy**: Achieved a classification accuracy of 92.31% on the test set.
+- **Detection Speed**: Processes video frames in real time (~37 FPS) on a standard CPU.
+- **System Performance**: Successfully triggers an alarm when eyes remain closed for a specific duration. (3-4s)
 
 ---
 
@@ -42,4 +42,4 @@ TensorFlow powers the deep learning model for eye state classification. The Conv
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-repository/driver-drowsiness-detection.git
-2. run ```bash drowsiness_detection.py
+2. run drowsiness_detection.py
