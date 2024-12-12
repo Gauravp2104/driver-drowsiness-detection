@@ -42,3 +42,4 @@ TensorFlow powers the deep learning model for eye state classification. The Conv
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-repository/driver-drowsiness-detection.git
+2. run ```bash drowsiness_detection.py
